@@ -1,0 +1,13 @@
+C:\workspace\Revisao_csharp\obj\Debug\netcoreapp3.1\Revisao_csharp.csprojAssemblyReference.cache
+C:\workspace\Revisao_csharp\obj\Debug\netcoreapp3.1\Revisao_csharp.AssemblyInfoInputs.cache
+C:\workspace\Revisao_csharp\obj\Debug\netcoreapp3.1\Revisao_csharp.AssemblyInfo.cs
+C:\workspace\Revisao_csharp\obj\Debug\netcoreapp3.1\Revisao_csharp.csproj.CoreCompileInputs.cache
+C:\workspace\Revisao_csharp\bin\Debug\netcoreapp3.1\Revisao_csharp.exe
+C:\workspace\Revisao_csharp\bin\Debug\netcoreapp3.1\Revisao_csharp.deps.json
+C:\workspace\Revisao_csharp\bin\Debug\netcoreapp3.1\Revisao_csharp.runtimeconfig.json
+C:\workspace\Revisao_csharp\bin\Debug\netcoreapp3.1\Revisao_csharp.runtimeconfig.dev.json
+C:\workspace\Revisao_csharp\bin\Debug\netcoreapp3.1\Revisao_csharp.dll
+C:\workspace\Revisao_csharp\bin\Debug\netcoreapp3.1\Revisao_csharp.pdb
+C:\workspace\Revisao_csharp\obj\Debug\netcoreapp3.1\Revisao_csharp.dll
+C:\workspace\Revisao_csharp\obj\Debug\netcoreapp3.1\Revisao_csharp.pdb
+C:\workspace\Revisao_csharp\obj\Debug\netcoreapp3.1\Revisao_csharp.genruntimeconfig.cache
